@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @GSWXXN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there👋
 
-<!---
-GSWXXN/GSWXXN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">I'm GSWXXN</h2>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=gswxxn&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswxxn&layout=compact" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" /> 
+</a>
+
+
