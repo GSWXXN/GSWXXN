@@ -1,6 +1,6 @@
 # Hi there👋
 
-<h2 align="center">I'm GSWXXN</h2>
+### I'm GSWXXN
 
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=gswxxn&show_icons=true" alt="logo" width="420" align="right" style="margin: 5px; margin-bottom: 20px;" />
