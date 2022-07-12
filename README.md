@@ -7,7 +7,7 @@
 </a>
 
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswxxn&layout=compact" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswxxn&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 </a>
 
 
